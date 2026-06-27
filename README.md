@@ -1,4 +1,4 @@
-# HairVise — Questionnaire-Based Hair Care Product Classification System
+# HairVise —  Hair Care Product Classification System
 
 ## 📌 Project Overview
 HairVise is an **AI-powered questionnaire-based recommendation system** that suggests **personalized hair-care product categories** for common concerns:
